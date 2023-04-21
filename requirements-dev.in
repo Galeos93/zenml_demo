@@ -1,0 +1,6 @@
+-r requirements.txt
+
+bandit>=1.7.0,<1.8
+coverage>=4.5.4,<4.6
+cython>=0.29.13,<0.30
+pyparsing>=2.4.2
